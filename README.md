@@ -7,6 +7,7 @@ A 3D kart racing game implemented by Unity game engine and C#. Play the game liv
 3. Open Unity Hub and click "Open".
    
 ![image](https://github.com/hezitaooOO/row_your_kart/assets/68521859/48a9ea89-c263-45c0-821e-33ef067fb389)
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/hezitaooOO/row_your_kart/assets/68521859/48a9ea89-c263-45c0-821e-33ef067fb389)" width="150" height="280">
 
 Then select the folder "row_your_kart". The project should open in Unity.
 
