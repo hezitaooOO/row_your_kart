@@ -17,9 +17,12 @@ Then select the folder "row_your_kart". The project should open in Unity.
 <p align="center">
   <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/3a253add-a3d7-41bb-bfd9-d3e14bb98356" width=20% height=20%>
 </p>
+
 2. How to win the game: be the first to pass the finish line.
 
-![FinishlineTutorial](https://github.com/hezitaooOO/row_your_kart/assets/68521859/e606fa51-0e4c-4d04-bda5-b13f88f33e18)
+<p align="center">
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/e606fa51-0e4c-4d04-bda5-b13f88f33e18" width=20% height=20%>
+</p>
 
 3. Try to hit the mysterious boxes to earn a tool! Press the "Q" key to use the tool. Press the "E" key to switch the order of the two tools.
 
