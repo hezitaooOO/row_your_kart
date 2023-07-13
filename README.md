@@ -40,9 +40,6 @@ Then select the folder "row_your_kart". The project should open in Unity.
 
 <p>
   <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/74ad969d-a48f-4a00-86dd-25201d017648" width=30% height=30%>
-</p>
-
-<p>
   <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/c33058e6-0176-4612-bb64-2549f4cca790" width=30% height=30%>
 </p>
 
