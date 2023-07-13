@@ -1,10 +1,13 @@
-# row_your_kart
-A 3D kart racing game implemented by Unity game engine and C#. Play the game live: https://simmer.io/@baoya_uncle/row-your-kart.
+# <p><img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/bce2bca5-e152-45db-8105-4efd89be84a0" width=20% height=20%></p>
 
-<p align="center">
+A 3D kart racing game implemented by Unity game engine and C#.
+
+[<img alt='Play it online' src='https://github.com/hezitaooOO/row_your_kart/assets/68521859/f406736d-25a2-4207-98c1-916d7ef8adb6' width="200px" style="padding:15px"/>](https://simmer.io/@baoya_uncle/row-your-kart "Play it online")
+
+<p>
   <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/ceb0dd4d-f434-43da-a710-16ecbc2cf780" width=60% height=60%>
 </p>
-![Screenshot 2023-07-12 210109](https://github.com/hezitaooOO/row_your_kart/assets/68521859/ceb0dd4d-f434-43da-a710-16ecbc2cf780)
+
 
 # Steps to open the project in Unity:
 1. Clone the repo.
