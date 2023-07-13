@@ -20,23 +20,23 @@ Then select the folder "row_your_kart". The project should open in Unity.
 1. The move control is the "W" key (move forward), "S" key (move downward), "A" key (turn left), and "D" key (turn right). Press the "Space" key to drift or brake. Press the "Shift" key to use the speed boost (use it carefully! It is limited!). Press the "R" key and hold for 3 seconds to reset the kart if the kart is off the road.
 
 <p align="center">
-  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/3a253add-a3d7-41bb-bfd9-d3e14bb98356" width=20% height=20%>
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/3a253add-a3d7-41bb-bfd9-d3e14bb98356" width=30% height=30%>
 </p>
 
 2. How to win the game: be the first to pass the finish line.
 
 <p align="center">
-  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/e606fa51-0e4c-4d04-bda5-b13f88f33e18" width=20% height=20%>
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/e606fa51-0e4c-4d04-bda5-b13f88f33e18" width=30% height=30%>
 </p>
 
 3. Try to hit the mysterious boxes to earn a tool! Press the "Q" key to use the tool. Press the "E" key to switch the order of the two tools.
 
 <p align="center">
-  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/74ad969d-a48f-4a00-86dd-25201d017648" width=20% height=20%>
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/74ad969d-a48f-4a00-86dd-25201d017648" width=30% height=30%>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/c33058e6-0176-4612-bb64-2549f4cca790" width=20% height=20%>
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/c33058e6-0176-4612-bb64-2549f4cca790" width=30% height=30%>
 </p>
 
 4. Tool effects:
