@@ -1,6 +1,11 @@
 # row_your_kart
 A 3D kart racing game implemented by Unity game engine and C#. Play the game live: https://simmer.io/@baoya_uncle/row-your-kart.
 
+<p align="center">
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/ceb0dd4d-f434-43da-a710-16ecbc2cf780" width=60% height=60%>
+</p>
+![Screenshot 2023-07-12 210109](https://github.com/hezitaooOO/row_your_kart/assets/68521859/ceb0dd4d-f434-43da-a710-16ecbc2cf780)
+
 # Steps to open the project in Unity:
 1. Clone the repo.
 2. Make sure you have Unity Hub (https://unity.com/unity-hub) and Unity downloaded (https://unity.com/download).
@@ -26,11 +31,13 @@ Then select the folder "row_your_kart". The project should open in Unity.
 
 3. Try to hit the mysterious boxes to earn a tool! Press the "Q" key to use the tool. Press the "E" key to switch the order of the two tools.
 
+<p align="center">
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/74ad969d-a48f-4a00-86dd-25201d017648" width=20% height=20%>
+</p>
 
-![MysteriousBoxTutorial](https://github.com/hezitaooOO/row_your_kart/assets/68521859/74ad969d-a48f-4a00-86dd-25201d017648)
-
-
-![UseToolTutorial](https://github.com/hezitaooOO/row_your_kart/assets/68521859/c33058e6-0176-4612-bb64-2549f4cca790)
+<p align="center">
+  <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/c33058e6-0176-4612-bb64-2549f4cca790" width=20% height=20%>
+</p>
 
 4. Tool effects:
 
@@ -43,8 +50,11 @@ Then select the folder "row_your_kart". The project should open in Unity.
    Road Construction - add road constructions on the tracing track.
    
    Boloon - Randomly pick an AI opponent kart and flow it for 3 seconds.
-
-   ![Tools](https://github.com/hezitaooOO/row_your_kart/assets/68521859/e00e22bf-d157-4ebd-a1d0-fcca54ae83a8)
-
-6. During the game, press "ESC" to open the in-game menu.
-7. Go through the tutorial on the game start page before playing the game.
+   
+   <p align="center">
+     <img src="https://github.com/hezitaooOO/row_your_kart/assets/68521859/e00e22bf-d157-4ebd-a1d0-fcca54ae83a8" width=20% height=20%>
+   </p>
+   
+5. During the game, press "ESC" to open the in-game menu.
+   
+6. Go through the tutorial on the game start page before playing the game.
